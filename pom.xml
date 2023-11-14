@@ -32,8 +32,8 @@
 				<configuration>
 					<cloudHubDeployment>
 						<muleVersion>4.4.0</muleVersion>
-						<username>${anypoint.username}</username>
-						<password>${anypoint.password}</password>
+						<username>sam909</username>
+						<password>S@mper2o21</password>
 						<applicationName>demo-mule-app-cicd</applicationName>
 						<environment>Sandbox</environment>
 						<workerType>MICRO</workerType>
