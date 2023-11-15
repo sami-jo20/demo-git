@@ -26,8 +26,8 @@ jobs:
         java-version: 1.8
     - name: Test with Maven
       env:
-        nexus_username: sam999
-        nexus_password: S@mper2o21        
+        USERNAME: sam999
+        PASSWORD: S@mper2o21        
       run: mvn test --settings .maven/settings.xml 
 
 
