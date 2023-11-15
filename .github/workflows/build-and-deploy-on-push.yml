@@ -100,6 +100,6 @@ jobs:
         artifactName=$(ls *.jar | head -1)
         mvn deploy -DmuleDeploy \
          -Dmule.artifact=$artifactName \
-         -Danypoint.username="sam909" \
+         -Danypoint.username="sam999" \
          -Danypoint.password="S@mper2o21" \
          -DskipTests
